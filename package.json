@@ -1,0 +1,19 @@
+{
+  "name": "git-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "mix": "mix watch",
+    "start": "live-server --no-browser --ignore=node_modules --ignorePattern=src/*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "laravel-mix": "^6.0.49"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
